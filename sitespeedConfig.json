@@ -2,7 +2,7 @@
   "browsertime": {
     "browser": "chrome",
     "viewPort": "1920x1080",
-    "iterations": 5,
+    "iterations": 1,
     "visualElements": true,
     "visualMetric": true,
     "spa": true,
