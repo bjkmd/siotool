@@ -1,4 +1,4 @@
-# Toolset for sitespeedio
+# Toolset for sitespeed.io
 
 ### Main features
 
